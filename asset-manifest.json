@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VIN-Decoder/static/css/main.cac79358.css",
+    "main.js": "/VIN-Decoder/static/js/main.0440be47.js",
+    "index.html": "/VIN-Decoder/index.html",
+    "main.cac79358.css.map": "/VIN-Decoder/static/css/main.cac79358.css.map",
+    "main.0440be47.js.map": "/VIN-Decoder/static/js/main.0440be47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cac79358.css",
+    "static/js/main.0440be47.js"
+  ]
+}
